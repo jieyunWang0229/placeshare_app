@@ -1,0 +1,10 @@
+{
+    "env": {
+            "DB_USER":"user01",
+            "DB_PASSWORD":"wjy0229",
+            "DB_NAME":"mern-project",
+            "GOOGLE_API_KEY": "AIzaSyCB2sX_Ta4QNyRIsuJ7TawNMhgBGHcZXUU",
+            "JWT_KEY":"jieyunwang0229"
+
+        }
+}
